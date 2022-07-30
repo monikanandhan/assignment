@@ -1,0 +1,31 @@
+.top{
+    background-image: url("hotelbg.png");
+    height:95vh;
+    width:35vw;
+    margin:0px auto;
+    background-size: cover;
+}
+.grid{
+    background-color: black;
+    color:white;
+    padding:15px;
+    margin:20px;
+    border-radius: 10px;    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.h6{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+text-align: center;
+background-color: white;
+color:black;
+height:35px;
+width:100px;
+margin-left: 135px;
+font-size: small;
+border-radius:10px;
+
+
+}

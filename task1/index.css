@@ -1,0 +1,38 @@
+.bg-image{
+    background-image: url("todolistbg.png");
+    height:90vh;
+    width:30vw;
+    background-size: cover;
+    margin:0px auto;
+    margin-top: 45px;
+    color:white;
+   
+}
+.h1{
+    text-align: center;
+   
+}
+.p1{
+    text-align: center; 
+}
+.h3{
+    font-style:bold;
+    font-size:large;
+}
+.btn{
+    background-color: orange;
+    margin-left: 160px;
+    color:white;
+    border-color: black;
+    width:5vw;
+    height:6vh;
+    text-align: center;
+    
+    
+}
+.h6{
+    font-size: smaller;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 50px;
+}

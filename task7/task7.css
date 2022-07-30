@@ -1,0 +1,52 @@
+.top{
+    width:25vw;
+    height:32vh;
+    background-size: cover;
+    margin:0px auto;
+    border-radius: 20px;
+    
+
+}
+.img{
+    width:150px;
+    height:180px;
+}
+.head{
+   
+    height:99vh;
+    width:30vw;
+    padding-top:20px;
+    margin:0px auto; 
+
+}
+.p1{
+    
+    text-align: justify;
+    font-size:15px;
+    margin-left:35px;
+    
+}
+.h5{
+    margin-left:35px;
+}
+.img2{
+    height:120px;
+    width:105px;
+    margin-left:20px;
+    padding-left:10px;
+    
+    
+    }
+    .h6{
+        padding-top: 5px;
+        margin-left:35px;
+        font-size: 18px;
+    }
+    .img3{
+        
+        height:120px;
+        width:95px;
+        margin-left:30px;
+        border-radius: 8px;
+        
+     }

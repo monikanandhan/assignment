@@ -1,0 +1,44 @@
+.top{
+    background-image: url("newsbg.png");
+    height:100vh;
+    width:35vw;
+    background-size: cover;
+    margin: 0px auto;
+   
+}
+.bottom{
+    height:50vh;
+    background-color: white;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    text-align: center;
+    padding:25px;
+    
+    
+}
+.btn2{
+    border-radius:5px;
+    background-color:black;
+    color:white;
+    font-size: small;
+    height:30px;
+    width:100px;
+    margin-right: 500px;    
+}
+.h4{
+    
+    color:grey;
+    font-family:'Times New Roman', Times, serif;
+    font-size:11px;
+    text-transform:uppercase;
+    text-align:justify;
+}
+.p1{
+   
+    font-size:medium;
+    text-align: justify;
+}
+.h5{
+    font-size:larger;
+    text-align:justify;
+}
